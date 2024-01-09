@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/DailyPulse/static/css/main.917bdf76.css",
+    "main.js": "/DailyPulse/static/js/main.65be5f98.js",
+    "static/js/787.6643f1c0.chunk.js": "/DailyPulse/static/js/787.6643f1c0.chunk.js",
+    "static/media/bg.jpg": "/DailyPulse/static/media/bg.ef95a7a72be9299f7bbe.jpg",
+    "static/media/loading.gif": "/DailyPulse/static/media/loading.faff9d733b3a9ddb394f.gif",
+    "static/media/loading2.gif": "/DailyPulse/static/media/loading2.e33715067ef2cab8cf6d.gif",
+    "index.html": "/DailyPulse/index.html",
+    "main.917bdf76.css.map": "/DailyPulse/static/css/main.917bdf76.css.map",
+    "main.65be5f98.js.map": "/DailyPulse/static/js/main.65be5f98.js.map",
+    "787.6643f1c0.chunk.js.map": "/DailyPulse/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.917bdf76.css",
+    "static/js/main.65be5f98.js"
+  ]
+}
