@@ -1,0 +1,23 @@
+/* Navbar.css */
+.navbar-bg {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.navbar-bg a {
+  color: #fff;
+  font-weight: normal;
+  transition: color 0.3s ease;
+}
+
+.navbar-bg a:hover,
+.navbar-bg a:active {
+  color: #f8f8f8;
+  font-weight: bold;
+}
+
+.nav-item.active a {
+  color: #f8f8f8;
+  font-weight: bold;
+}
