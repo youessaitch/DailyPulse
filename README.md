@@ -1,3 +1,9 @@
+## Screenshots:
+![image](https://github.com/youessaitch/DailyPulse/assets/72415411/eaa7caee-fdb5-4b22-8be5-dfe50c33f66a)
+![image](https://github.com/youessaitch/DailyPulse/assets/72415411/18a49599-7627-4b81-9575-d7e15e95b053)
+![image](https://github.com/youessaitch/DailyPulse/assets/72415411/9a9649d0-e061-47b3-a362-598629646c93)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
